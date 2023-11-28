@@ -1,9 +1,8 @@
 # SDLC
 
-1 - How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
-    An important aspect of an agile based project is the implementation of user feedback. Working    with the Product Owner to create user stories based on the needs of the user and the software    creates a functional product based on the most prioritized subjects. 
 
-2 - How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
- 	 An analysis of the developing project is first done to understand the requirements of the       program. If agile methodologies are determined to be a good fit, which in many circumstances     at least some agile principles can be incorporated, then I would plan to use Scrum practices     such as Sprint Planning to determine the product backlog, Daily Scrum’s to establish a           culture of independence and accountability, Spring Review’s to deliver finished Sprint           results, and Sprint Retrospective’s for team growth.  
-3 - What does it mean to be a good team member in software development?
-  Being a good team member in software development is associated with a good work ethic, a desire to learn, accountability, self-organization, willingness to help others, and leadership. Agile methodologies flow easier when all team members work together for an overall purpose. 
+Understanding and translating user needs into a functional program is at the core of my approach. By collaborating with the Product Owner, I contribute to the creation of user stories, a pivotal aspect of agile-based projects. These stories serve as a bridge between user requirements and software functionality, ensuring that the end product is not only aligned with user needs but also prioritized effectively.
+
+To initiate a project, I begin by delving into a thorough understanding of its core requirements. When it comes to choosing the most effective strategy, I gravitate towards agile methods, particularly favoring Scrum. Starting with Sprint Planning, mapping out the game plan for the product backlog. Daily Scrums to keep team members connected, favoring a culture of independence and accountability. Sprint Reviews serve as the formal presentation of our refined outcomes, while Sprint Retrospectives play a pivotal role in fostering team growth. This strategic combination enhances the dynamism and adaptability of our development process.
+   
+I believe being a good team player in software development means having a solid work ethic, a hunger for learning, and being accountable. It's about organizing yourself, helping out your teammates, and stepping up when needed. I get that agile methods work best when everyone's on the same page and working toward a common goal. I'm all in for making that happen.
